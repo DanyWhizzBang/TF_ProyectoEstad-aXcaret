@@ -1,0 +1,5 @@
+# Proyecto estadía 2024 
+## Registro de Prestamos para Todo Fluye
+
+### Planteamiento del Problema
+El departamento “Todo Fluye” está dedicado a el proceso de comunicación entre áreas, se encarga de (Como su nombre lo indica) hacer que la información fluya entre las mismas. Entre las tareas que realiza el departamento se encuentra el préstamo de recursos tecnológicos a huéspedes, para esto se lleva a cabo un proceso de llenado de misceláneos, los cuales poseen un número de identificación, estos se encuentran en grupos de tres con un mismo ID por triplete y van en bloques de cincuenta misceláneos que adquieren de otro departamento. En una hoja de cálculo llevan un registro con los siguientes datos: Fecha de solicitud, habitación, ID de misceláneo, artículo, Nombre de quien realiza el préstamo, fecha de salida de huésped, nombre de huésped y nombre de la persona del departamento que ha recuperado el artículo, este registro posee una identificación por colores, los cuales indican el estado de cada préstamo (Recuperado, cancelado, por recuperar). Dicho esto, se busca crear un software con la capacidad de facilitar el registro de los propios recursos prestados. 
