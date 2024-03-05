@@ -11,6 +11,7 @@ function createWindow(){
             nodeIntegration:true
         }
     })
+
     window.loadFile('src/ui/index.html');
 }
 
