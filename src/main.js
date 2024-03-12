@@ -12,7 +12,7 @@ function createWindow(){
         }
     })
 
-    window.loadFile('src/ui/index.html');
+    window.loadFile('src/view/tablasRegist.html');
 }
 
 module.exports = {
