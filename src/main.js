@@ -8,11 +8,13 @@ function createWindow(){
         width:800,
         height:600,
         webPreferences:{
-            nodeIntegration:true
+            nodeIntegration:true,
+            preload:path.join(_dirname, 'src/controller/login.js')
+
         }
     })
 
-    window.loadFile('src/view/index.html');
+    window.loadFile('src/view/login.html');
 }
 
 module.exports = {
