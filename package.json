@@ -14,7 +14,7 @@
     "electron": "^29.0.1",
     "electron-reload": "^2.0.0-alpha.1",
     "material-icons": "^1.13.12",
+    "mysql": "^2.18.1",
     "promise-mysql": "^5.2.0"
-    
   }
 }
