@@ -13,5 +13,5 @@ window.onload=function(){
         const obj = {userName:userName.value, password:password.value}
 
         ipcRenderer.invoke("login", obj)
-    }
+    }   
 }

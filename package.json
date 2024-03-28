@@ -2,7 +2,7 @@
   "name": "proyectoestadia_xcaret",
   "version": "1.0.0",
   "description": "",
-  "main": "src/index.js",
+  "main": "main.js",
   "scripts": {
     "start": "electron ."
   },
